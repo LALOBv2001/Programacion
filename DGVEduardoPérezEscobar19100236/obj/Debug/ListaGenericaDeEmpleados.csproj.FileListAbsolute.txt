@@ -1,0 +1,9 @@
+C:\Users\Osvaldo\source\repos\ListaGenericaDeEmpleados\bin\Debug\ListaGenericaDeEmpleados.exe.config
+C:\Users\Osvaldo\source\repos\ListaGenericaDeEmpleados\bin\Debug\ListaGenericaDeEmpleados.exe
+C:\Users\Osvaldo\source\repos\ListaGenericaDeEmpleados\bin\Debug\ListaGenericaDeEmpleados.pdb
+C:\Users\Osvaldo\source\repos\ListaGenericaDeEmpleados\obj\Debug\ListaGenericaDeEmpleados.csprojAssemblyReference.cache
+C:\Users\Osvaldo\source\repos\ListaGenericaDeEmpleados\obj\Debug\ListaGenericaDeEmpleados.Form1.resources
+C:\Users\Osvaldo\source\repos\ListaGenericaDeEmpleados\obj\Debug\ListaGenericaDeEmpleados.Properties.Resources.resources
+C:\Users\Osvaldo\source\repos\ListaGenericaDeEmpleados\obj\Debug\ListaGenericaDeEmpleados.csproj.GenerateResource.cache
+C:\Users\Osvaldo\source\repos\ListaGenericaDeEmpleados\obj\Debug\ListaGenericaDeEmpleados.exe
+C:\Users\Osvaldo\source\repos\ListaGenericaDeEmpleados\obj\Debug\ListaGenericaDeEmpleados.pdb

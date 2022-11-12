@@ -1,0 +1,14 @@
+C:\Users\Osvaldo\source\repos\ListaEmpresa\obj\Debug\ListaEmpresa.csprojAssemblyReference.cache
+C:\Users\Osvaldo\source\repos\ListaEmpresa\obj\Debug\ListaEmpresa.Form1.resources
+C:\Users\Osvaldo\source\repos\ListaEmpresa\obj\Debug\ListaEmpresa.Properties.Resources.resources
+C:\Users\Osvaldo\source\repos\ListaEmpresa\obj\Debug\ListaEmpresa.csproj.GenerateResource.cache
+C:\Users\Osvaldo\source\repos\ListaEmpresa\bin\Debug\ListaEmpresa.exe.config
+C:\Users\Osvaldo\source\repos\ListaEmpresa\bin\Debug\ListaEmpresa.exe
+C:\Users\Osvaldo\source\repos\ListaEmpresa\bin\Debug\ListaEmpresa.pdb
+C:\Users\Osvaldo\source\repos\ListaEmpresa\obj\Debug\ListaEmpresa.exe
+C:\Users\Osvaldo\source\repos\ListaEmpresa\obj\Debug\ListaEmpresa.pdb
+C:\Users\Osvaldo\Desktop\Composicion de uno a muchos\ListaEmpresa\obj\Debug\ListaEmpresa.csprojAssemblyReference.cache
+C:\Users\Osvaldo\Desktop\Composicion de uno a muchos\ListaEmpresa\obj\Debug\ListaEmpresa.Properties.Resources.resources
+C:\Users\Osvaldo\Desktop\Composicion de uno a muchos\ListaEmpresa\obj\Debug\ListaEmpresa.csproj.GenerateResource.cache
+C:\Users\Osvaldo\Desktop\Composicion de uno a muchos\ListaEmpresa\obj\Debug\ListaEmpresa.exe
+C:\Users\Osvaldo\Desktop\Composicion de uno a muchos\ListaEmpresa\obj\Debug\ListaEmpresa.pdb

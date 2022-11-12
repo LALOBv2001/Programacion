@@ -1,0 +1,9 @@
+C:\Users\Osvaldo\Desktop\Agregacion\Tarea3.4\bin\Debug\Tarea3.4.exe.config
+C:\Users\Osvaldo\Desktop\Agregacion\Tarea3.4\bin\Debug\Tarea3.4.exe
+C:\Users\Osvaldo\Desktop\Agregacion\Tarea3.4\bin\Debug\Tarea3.4.pdb
+C:\Users\Osvaldo\Desktop\Agregacion\Tarea3.4\obj\Debug\Tarea3.4.csprojAssemblyReference.cache
+C:\Users\Osvaldo\Desktop\Agregacion\Tarea3.4\obj\Debug\Tarea3._4.Form1.resources
+C:\Users\Osvaldo\Desktop\Agregacion\Tarea3.4\obj\Debug\Tarea3._4.Properties.Resources.resources
+C:\Users\Osvaldo\Desktop\Agregacion\Tarea3.4\obj\Debug\Tarea3.4.csproj.GenerateResource.cache
+C:\Users\Osvaldo\Desktop\Agregacion\Tarea3.4\obj\Debug\Tarea3.4.exe
+C:\Users\Osvaldo\Desktop\Agregacion\Tarea3.4\obj\Debug\Tarea3.4.pdb

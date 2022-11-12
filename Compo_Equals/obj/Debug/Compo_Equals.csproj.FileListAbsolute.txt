@@ -1,0 +1,10 @@
+C:\Users\Osvaldo\Desktop\Compo_Equals\bin\Debug\Compo_Equals.exe.config
+C:\Users\Osvaldo\Desktop\Compo_Equals\bin\Debug\Compo_Equals.exe
+C:\Users\Osvaldo\Desktop\Compo_Equals\bin\Debug\Compo_Equals.pdb
+C:\Users\Osvaldo\Desktop\Compo_Equals\obj\Debug\Compo_Equals.Properties.Resources.resources
+C:\Users\Osvaldo\Desktop\Compo_Equals\obj\Debug\Compo_Equals.csproj.GenerateResource.cache
+C:\Users\Osvaldo\Desktop\Compo_Equals\obj\Debug\Compo_Equals.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\Desktop\Compo_Equals\obj\Debug\Compo_Equals.exe
+C:\Users\Osvaldo\Desktop\Compo_Equals\obj\Debug\Compo_Equals.pdb
+C:\Users\Osvaldo\Desktop\Compo_Equals\obj\Debug\Compo_Equals.Form1.resources
+C:\Users\Osvaldo\Desktop\Compo_Equals\obj\Debug\Compo_Equals.csprojAssemblyReference.cache
