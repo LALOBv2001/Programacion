@@ -1,0 +1,10 @@
+C:\Users\Osvaldo\source\repos\EExamenPractico3\bin\Debug\EExamenPractico3.exe.config
+C:\Users\Osvaldo\source\repos\EExamenPractico3\bin\Debug\EExamenPractico3.exe
+C:\Users\Osvaldo\source\repos\EExamenPractico3\bin\Debug\EExamenPractico3.pdb
+C:\Users\Osvaldo\source\repos\EExamenPractico3\obj\Debug\EExamenPractico3.csprojAssemblyReference.cache
+C:\Users\Osvaldo\source\repos\EExamenPractico3\obj\Debug\EExamenPractico3.Form1.resources
+C:\Users\Osvaldo\source\repos\EExamenPractico3\obj\Debug\EExamenPractico3.Properties.Resources.resources
+C:\Users\Osvaldo\source\repos\EExamenPractico3\obj\Debug\EExamenPractico3.csproj.GenerateResource.cache
+C:\Users\Osvaldo\source\repos\EExamenPractico3\obj\Debug\EExamenPractico3.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\source\repos\EExamenPractico3\obj\Debug\EExamenPractico3.exe
+C:\Users\Osvaldo\source\repos\EExamenPractico3\obj\Debug\EExamenPractico3.pdb

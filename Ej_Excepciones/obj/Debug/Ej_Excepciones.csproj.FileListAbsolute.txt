@@ -1,0 +1,10 @@
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\bin\Debug\Ej_Excepciones.exe.config
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\bin\Debug\Ej_Excepciones.exe
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\bin\Debug\Ej_Excepciones.pdb
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\obj\Debug\Ej_Excepciones.csprojAssemblyReference.cache
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\obj\Debug\Ej_Excepciones.Form1.resources
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\obj\Debug\Ej_Excepciones.Properties.Resources.resources
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\obj\Debug\Ej_Excepciones.csproj.GenerateResource.cache
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\obj\Debug\Ej_Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\obj\Debug\Ej_Excepciones.exe
+C:\Users\Osvaldo\Desktop\Ej_Excepciones\obj\Debug\Ej_Excepciones.pdb

@@ -1,0 +1,10 @@
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\bin\Debug\EjPolimorfismo1.exe.config
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\bin\Debug\EjPolimorfismo1.exe
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\bin\Debug\EjPolimorfismo1.pdb
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\obj\Debug\EjPolimorfismo1.csprojAssemblyReference.cache
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\obj\Debug\EjPolimorfismo1.Form1.resources
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\obj\Debug\EjPolimorfismo1.Properties.Resources.resources
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\obj\Debug\EjPolimorfismo1.csproj.GenerateResource.cache
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\obj\Debug\EjPolimorfismo1.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\obj\Debug\EjPolimorfismo1.exe
+C:\Users\Osvaldo\source\repos\EjPolimorfismo1\obj\Debug\EjPolimorfismo1.pdb

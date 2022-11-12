@@ -1,0 +1,10 @@
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\bin\Debug\ClaseParametricaProducto.exe.config
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\bin\Debug\ClaseParametricaProducto.exe
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\bin\Debug\ClaseParametricaProducto.pdb
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\obj\Debug\ClaseParametricaProducto.csprojAssemblyReference.cache
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\obj\Debug\ClaseParametricaProducto.Form1.resources
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\obj\Debug\ClaseParametricaProducto.Properties.Resources.resources
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\obj\Debug\ClaseParametricaProducto.csproj.GenerateResource.cache
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\obj\Debug\ClaseParametricaProducto.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\obj\Debug\ClaseParametricaProducto.exe
+C:\Users\Osvaldo\source\repos\ClaseParametricaProducto\obj\Debug\ClaseParametricaProducto.pdb
