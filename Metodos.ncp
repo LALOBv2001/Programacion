@@ -1,0 +1,174 @@
+<Project>
+  <Name>Metodos</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Metodos</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Estudiante</Name>
+        <Access>Public</Access>
+        <Location left="51" top="36" />
+        <Size width="162" height="315" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int Nlista</Member>
+        <Member type="Field">str Ap</Member>
+        <Member type="Field">str Am</Member>
+        <Member type="Field">str Nombre</Member>
+        <Member type="Field">str grupo</Member>
+        <Member type="Field">double Prom</Member>
+        <Member type="Property">public int Nlista { get; set; }</Member>
+        <Member type="Property">public str Apa { get; set; }</Member>
+        <Member type="Property">public str Ama { get; set; }</Member>
+        <Member type="Property">public str N { get; set; }</Member>
+        <Member type="Property">public str G { get; set; }</Member>
+        <Member type="Property">public dbl Promedio { get; set; }</Member>
+        <Member type="Property">public int NewProperty { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Structure">
+        <Name>Galleta</Name>
+        <Access>Public</Access>
+        <Location left="238" top="43" />
+        <Size width="162" height="247" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">dbl Radio</Member>
+        <Member type="Field">dbl area</Member>
+        <Member type="Field">dbl Lado</Member>
+        <Member type="Field">dbl Base</Member>
+        <Member type="Field">dbl altura</Member>
+        <Member type="Property">public dbl R { get; set; }</Member>
+        <Member type="Property">public dbl A { get; set; }</Member>
+        <Member type="Property">public dbl L { get; set; }</Member>
+        <Member type="Property">public dbl B { get; set; }</Member>
+        <Member type="Property">public dbl Altura { get; set; }</Member>
+      </Entity>
+      <Entity type="Structure">
+        <Name>Numero</Name>
+        <Access>Public</Access>
+        <Location left="414" top="36" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int numero</Member>
+        <Member type="Field">str mes</Member>
+        <Member type="Property">public str Mes { get; set; }</Member>
+        <Member type="Property">public int Numero { get; set; }</Member>
+      </Entity>
+      <Entity type="Structure">
+        <Name>Numero</Name>
+        <Access>Public</Access>
+        <Location left="595" top="36" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int N</Member>
+        <Member type="Field">str nombre</Member>
+        <Member type="Property">public int numero { get; set; }</Member>
+        <Member type="Property">public str Nmbre { get; set; }</Member>
+      </Entity>
+      <Entity type="Structure">
+        <Name>Esfera</Name>
+        <Access>Public</Access>
+        <Location left="768" top="32" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int Radio</Member>
+        <Member type="Property">public int radio { get; set; }</Member>
+      </Entity>
+      <Entity type="Structure">
+        <Name>Suma</Name>
+        <Access>Public</Access>
+        <Location left="946" top="36" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int N1</Member>
+        <Member type="Field">int N2</Member>
+        <Member type="Property">public int numero1 { get; set; }</Member>
+        <Member type="Property">public int numero2 { get; set; }</Member>
+      </Entity>
+      <Entity type="Class">
+        <Name>Factura</Name>
+        <Access>Public</Access>
+        <Location left="1130" top="36" />
+        <Size width="162" height="281" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int A1</Member>
+        <Member type="Field">int A2</Member>
+        <Member type="Field">int A3</Member>
+        <Member type="Field">int A4</Member>
+        <Member type="Field">int A5</Member>
+        <Member type="Field">dbl Iva</Member>
+        <Member type="Property">public dbl IVA { get; set; }</Member>
+        <Member type="Property">public int articulo1 { get; set; }</Member>
+        <Member type="Property">public int articulo2 { get; set; }</Member>
+        <Member type="Property">public int articulo3 { get; set; }</Member>
+        <Member type="Property">public int ariculo4 { get; set; }</Member>
+        <Member type="Property">public int articulo5 { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Alumno</Name>
+        <Access>Public</Access>
+        <Location left="1328" top="32" />
+        <Size width="162" height="281" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">str Nombre1</Member>
+        <Member type="Field">str Nombre2</Member>
+        <Member type="Field">str Nombre3</Member>
+        <Member type="Field">int cal1</Member>
+        <Member type="Field">int cal2</Member>
+        <Member type="Field">int cal3</Member>
+        <Member type="Property">public int C1 { get; set; }</Member>
+        <Member type="Property">public int C2 { get; set; }</Member>
+        <Member type="Property">public int C3 { get; set; }</Member>
+        <Member type="Property">public str N1 { get; set; }</Member>
+        <Member type="Property">public str N2 { get; set; }</Member>
+        <Member type="Property">public str N3 { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Factorial</Name>
+        <Access>Public</Access>
+        <Location left="1511" top="44" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int Numero</Member>
+        <Member type="Property">public int N { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Cilindro</Name>
+        <Access>Public</Access>
+        <Location left="1691" top="47" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">dbl Radio</Member>
+        <Member type="Field">dbl Altura</Member>
+        <Member type="Field">dbl cilindro</Member>
+        <Member type="Property">public int radio { get; set; }</Member>
+        <Member type="Property">public int altura { get; set; }</Member>
+        <Member type="Property">public int Cilindro { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Empleado</Name>
+        <Access>Public</Access>
+        <Location left="1879" top="44" />
+        <Size width="162" height="281" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">str Nombre</Member>
+        <Member type="Field">str Ap</Member>
+        <Member type="Field">str Am</Member>
+        <Member type="Field">str NumC</Member>
+        <Member type="Field">int sueldo</Member>
+        <Member type="Field">int horas</Member>
+        <Member type="Property">public str N { get; set; }</Member>
+        <Member type="Property">public str ApellidoP { get; set; }</Member>
+        <Member type="Property">public str AppellidoM { get; set; }</Member>
+        <Member type="Property">public int NoC { get; set; }</Member>
+        <Member type="Property">public int S { get; set; }</Member>
+        <Member type="Property">public int H { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships />
+  </ProjectItem>
+</Project>

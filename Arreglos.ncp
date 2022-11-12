@@ -1,0 +1,307 @@
+<Project>
+  <Name>Arreglos</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Arreglos</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Alumno</Name>
+        <Access>Public</Access>
+        <Location left="105" top="62" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int NoControl</Member>
+        <Member type="Field">str Nombre</Member>
+        <Member type="Field">int Calificacion</Member>
+        <Member type="Property">public int C { get; set; }</Member>
+        <Member type="Property">public str N { get; set; }</Member>
+        <Member type="Property">public int NControl { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Alumno</Name>
+        <Access>Public</Access>
+        <Location left="284" top="62" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int NoControl</Member>
+        <Member type="Field">str Nombre</Member>
+        <Member type="Field">int Calificacion</Member>
+        <Member type="Property">public int C { get; set; }</Member>
+        <Member type="Property">public str N { get; set; }</Member>
+        <Member type="Property">public int NControl { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Alumno</Name>
+        <Access>Public</Access>
+        <Location left="475" top="81" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int NoControl</Member>
+        <Member type="Field">str Nombre</Member>
+        <Member type="Field">int Calificacion</Member>
+        <Member type="Property">public int C { get; set; }</Member>
+        <Member type="Property">public str N { get; set; }</Member>
+        <Member type="Property">public int NControl { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Alumno</Name>
+        <Access>Public</Access>
+        <Location left="675" top="81" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int NoControl</Member>
+        <Member type="Field">str Nombre</Member>
+        <Member type="Field">int Calificacion</Member>
+        <Member type="Property">public int C { get; set; }</Member>
+        <Member type="Property">public str N { get; set; }</Member>
+        <Member type="Property">public int NControl { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Alumno</Name>
+        <Access>Public</Access>
+        <Location left="1277" top="81" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int NoControl</Member>
+        <Member type="Field">str Nombre</Member>
+        <Member type="Field">int Calificacion</Member>
+        <Member type="Property">public int C { get; set; }</Member>
+        <Member type="Property">public str N { get; set; }</Member>
+        <Member type="Property">public int NControl { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Alumno</Name>
+        <Access>Public</Access>
+        <Location left="881" top="81" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int NoControl</Member>
+        <Member type="Field">str Nombre</Member>
+        <Member type="Field">int Calificacion</Member>
+        <Member type="Property">public int C { get; set; }</Member>
+        <Member type="Property">public str N { get; set; }</Member>
+        <Member type="Property">public int NControl { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Alumno</Name>
+        <Access>Public</Access>
+        <Location left="1080" top="81" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int NoControl</Member>
+        <Member type="Field">str Nombre</Member>
+        <Member type="Field">int Calificacion</Member>
+        <Member type="Property">public int C { get; set; }</Member>
+        <Member type="Property">public str N { get; set; }</Member>
+        <Member type="Property">public int NControl { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Empresa</Name>
+        <Access>Public</Access>
+        <Location left="1465" top="87" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int VentaMes</Member>
+        <Member type="Field">str NombreMes</Member>
+        <Member type="Property">public int VM { get; set; }</Member>
+        <Member type="Property">public str NM { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Desviacion</Name>
+        <Access>Public</Access>
+        <Location left="1656" top="90" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">dbl o</Member>
+        <Member type="Field">dbl CantidadNumeros</Member>
+        <Member type="Property">public dbl O { get; set; }</Member>
+        <Member type="Property">public dbl Cnumeros { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>jugador</Name>
+        <Access>Public</Access>
+        <Location left="85" top="354" />
+        <Size width="324" height="320" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">str strNombre</Member>
+        <Member type="Field">str strPosicion</Member>
+        <Member type="Field">int intpeso</Member>
+        <Member type="Field">int intaltura</Member>
+        <Member type="Field">int Goles = new int[x]</Member>
+        <Member type="Field">int x = NumeroGoles</Member>
+        <Member type="Property">int this[int i] { get; set; }</Member>
+        <Member type="Property">public str strN { get; set; }</Member>
+        <Member type="Property">public str strPosi { get; set; }</Member>
+        <Member type="Property">public int intPeso { get; set; }</Member>
+        <Member type="Property">public int intAltura { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Venta</Name>
+        <Access>Public</Access>
+        <Location left="489" top="354" />
+        <Size width="348" height="247" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">str marca</Member>
+        <Member type="Field">str modelo</Member>
+        <Member type="Field">int precio</Member>
+        <Member type="Field">str tamañopantalla</Member>
+        <Member type="Field">int [] Pagos = new int [Celda]</Member>
+        <Member type="Property">int this[int celda] { get; set; }</Member>
+        <Member type="Property">public str Marca { get; set; }</Member>
+        <Member type="Property">public str mModelo { get; set; }</Member>
+        <Member type="Property">public int Precio { get; set; }</Member>
+        <Member type="Property">public str TamañoPantalla { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships />
+  </ProjectItem>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Formas</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Rectangulo</Name>
+        <Access>Public</Access>
+        <Location left="479" top="124" />
+        <Size width="188" height="212" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">doube largo</Member>
+        <Member type="Field">double ancho</Member>
+        <Member type="Method">public double CalcularArea()</Member>
+        <Member type="Method">public void ModificarLargo(double l)</Member>
+        <Member type="Method">public void ModificarAncho(double a)</Member>
+        <Member type="Method">public double ConsultarLargo()</Member>
+        <Member type="Method">public double ConsultarAncho()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>CambioDivisas</Name>
+        <Access>Public</Access>
+        <Location left="718" top="124" />
+        <Size width="219" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">double dblPesos</Member>
+        <Member type="Field">double dblTipoCambio</Member>
+        <Member type="Constructor">public CambioDivisas(double dblTc)</Member>
+        <Member type="Property">public double Pesos { get; set; }</Member>
+        <Member type="Property">public double TipoCambio { get; set; }</Member>
+        <Member type="Method">public double ConvertirADolares()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Mesa</Name>
+        <Access>Public</Access>
+        <Location left="972" top="124" />
+        <Size width="269" height="315" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">double _dblHamburguesaSencilla</Member>
+        <Member type="Field">double _dblHamburguesaConQueso</Member>
+        <Member type="Field">double _dblHamburguesaEspecial</Member>
+        <Member type="Field">dbl _dblPapasFritas</Member>
+        <Member type="Field">dbl _dblRefrescos</Member>
+        <Member type="Field">dbl _dblPostres</Member>
+        <Member type="Property">public double HamburguesaSencilla { get; set; }</Member>
+        <Member type="Property">public double HamburguesaConQueso { get; set; }</Member>
+        <Member type="Property">public double HamburguesaEspecial { get; set; }</Member>
+        <Member type="Property">public double PapasFritas { get; set; }</Member>
+        <Member type="Property">public double Refrescos { get; set; }</Member>
+        <Member type="Property">public double Postres { get; set; }</Member>
+        <Member type="Method">public double Cuenta()</Member>
+        <Member type="Constructor">public Mesa(double a, double b, double c, double d, double e, double f)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Empelado</Name>
+        <Access>Public</Access>
+        <Location left="1280" top="124" />
+        <Size width="208" height="179" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int _intHorasTrabajadas</Member>
+        <Member type="Field">double _dblSueldoPorHora</Member>
+        <Member type="Property">public int HorasTrabajadas { get; set; }</Member>
+        <Member type="Property">public double SueldoPorHora { get; set; }</Member>
+        <Member type="Method">public double CalcularBono()</Member>
+        <Member type="Method">public double CalcularSueldoTotal()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Persona</Name>
+        <Access>Public</Access>
+        <Location left="1736" top="37" />
+        <Size width="162" height="128" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">string _strNombre</Member>
+        <Member type="Method">public string Asistir()</Member>
+        <Member type="Property">public string Nombre { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Maestro</Name>
+        <Access>Public</Access>
+        <Location left="1597" top="250" />
+        <Size width="162" height="121" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">double _dblSueldo</Member>
+        <Member type="Property">public double Sueldo { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Alumno</Name>
+        <Access>Public</Access>
+        <Location left="1905" top="250" />
+        <Size width="162" height="121" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int _intCalificacion</Member>
+        <Member type="Property">public int Calificacion { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Persona</Name>
+        <Access>Public</Access>
+        <Location left="2235" top="37" />
+        <Size width="248" height="180" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">string _strNombre</Member>
+        <Member type="Field">DateTime _dtmFechaDeNacimiento</Member>
+        <Member type="Property">public string Nombre { get; set; }</Member>
+        <Member type="Property">public DateTime FechaDeNacimiento { get; set; }</Member>
+        <Member type="Method">public int CalcularEdad()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Cliente</Name>
+        <Access>Public</Access>
+        <Location left="2272" top="298" />
+        <Size width="162" height="102" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">public bool EsMayor()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Generalization" first="5" second="4">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Generalization" first="6" second="4">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Generalization" first="8" second="7">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>
