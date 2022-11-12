@@ -1,0 +1,10 @@
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\bin\Debug\PolimorfismoParametrico.exe.config
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\bin\Debug\PolimorfismoParametrico.exe
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\bin\Debug\PolimorfismoParametrico.pdb
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\obj\Debug\PolimorfismoParametrico.csprojAssemblyReference.cache
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\obj\Debug\PolimorfismoParametrico.Form1.resources
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\obj\Debug\PolimorfismoParametrico.Properties.Resources.resources
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\obj\Debug\PolimorfismoParametrico.csproj.GenerateResource.cache
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\obj\Debug\PolimorfismoParametrico.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\obj\Debug\PolimorfismoParametrico.exe
+C:\Users\Osvaldo\source\repos\PolimorfismoParametrico\obj\Debug\PolimorfismoParametrico.pdb

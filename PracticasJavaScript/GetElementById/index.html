@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Este es el primer hola mundo</h2>
+    <p id="demo">Bienvenido a jabascript</p>
+    <button onClick="document.getElementById('demo').innerHTML = 'Hello JavaScript!'">Cambiar</button>
+    <br>
+    <p>Ahora lo haremos con imagenes </p>
+    <button onClick="document.getElementById('imagen').src='imagenes/programadorOficial.jpg'"  >Programador</button>
+    <img id="imagen" src="imagenes/programadorOficial.jpg" style="width:100px;height:100px;">
+    <button onClick="document.getElementById('imagen').src='imagenes/programadoraOficial.jpg'">Programadora</button>
+    <br>
+    <p id="parrafo">este elemento Se hace mas grande</p>
+    <button onClick="document.getElementById('parrafo').style.fontSize='35px'">Agrandar texto</button>
+    <br><br><br>
+    <p id="oculto">Puedo ocultarme </p>
+    <button onclick="document.getElementById('oculto').style.display='none'">Ocultar</button>
+    <button onclick="document.getElementById('oculto').style.display='block'">Aparecer</button>
+</body>
+</html>
