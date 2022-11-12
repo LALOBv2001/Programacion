@@ -1,0 +1,51 @@
+Investigacion preliminar:
+Saber el RFC,razón social,gerente de la empresa y el numero,nombre y jefe del departamento.
+
+Definicion del problema:
+Se necesita capturar y mostrar los datos anteriores de una empresa mediante un DataGridView con la clase Empresa y la clase departamento con sus respectivos atributos y propiedades, para esto se utilizan formas en Visual studio.
+
+Datos de entrada: 
+RFC
+Atributo: string _strRFC
+Propiedades: RFC{get;set;}: string
+
+Razon Social
+Atributo: string  _strRazonS
+Propiedades: RazonSocial{get;set;}:string
+
+Gerente
+Atributo: string  _strGerente
+Propiedades: Gerente{get;set;}:string
+
+Numero
+Atributo: int _intNumero
+Propiedades: Numero{get;set;}: int
+
+Nombre
+Atributo: string  _strNombre
+Propiedades: Nombre{get;set;}:string
+
+
+Jefe
+Atributo: string  _strJefe
+Propiedades: Jefe{get;set;}:string
+
+Datos de Salida:
+El DataGridView mostrando el departamento de la empresa
+
+Gerente
+Atributo: string  _strGerente
+Propiedades: Gerente{get;set;}:string
+
+Numero
+Atributo: int _intNumero
+Propiedades: Numero{get;set;}: int
+
+Nombre
+Atributo: string  _strNombre
+Propiedades: Nombre{get;set;}:string
+
+Datos auxiliares:
+Clases: Empresa,Departamento y List
+Objetos:  miEmpresa y mi departamento, ListaDepartamentos.
+El cliclo foreach para ir rellenando el DataGridView.
